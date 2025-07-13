@@ -38,11 +38,10 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=parthkh26&show_icons=true&theme=default&hide_border=false&count_private=true" alt="Parth's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=parthkh26&theme=default&hide_border=false" alt="GitHub Streak" />
+
 </p>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parthkh26&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkh26&layout=compact&theme=default" alt="Top Languages" />
